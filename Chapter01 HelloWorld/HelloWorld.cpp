@@ -1,7 +1,7 @@
-#include <iostream>
+#include <iostream> // input output stream library
 
-int main()
+int main() // always needed
 {
-	std::cout << "Hello, World!";
-	return 0;
+	std::cout << "Hello, World!"; // standard character output
+	return 0; /* int main() --> expects integer return (which happens here) */
 }
