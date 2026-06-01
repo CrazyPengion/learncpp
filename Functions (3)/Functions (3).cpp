@@ -1,14 +1,9 @@
-#include "Word.h"
-#include "Add.h"
-#include <iostream>
-
-int getInteger();
+#include "io.h"
 
 int main()
 {
-	int x{ getInteger() };
-	int y{ getInteger() };
-
-	std::cout << SOLUTION << ":" << x << " + " << y << " is " << x + y << '\n';
+	int x{ readNumber() };
+	int y{ readNumber() };
+	writeAnswer(x + y);
 	return 0;
 }
