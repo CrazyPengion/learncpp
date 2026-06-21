@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Constants &amp; Strings (5)/Constants &amp; Strings (5).vcxproj" Id="79088b8b-26ac-47a0-b889-f1b75cbedd72" />
   <Project Path="../Data Types (4)/Data Types (4).vcxproj" Id="335639d4-4973-45cc-b5d4-bf892022dc9a" />
   <Project Path="../Functions (3)/Functions (3).vcxproj" Id="d4dd8a55-ada5-4b74-8bdd-307384abe95a" />
   <Project Path="../Variables (2)/Variables (2).vcxproj" Id="5139147d-56c1-40fe-9ad0-4c0060177d86" />
