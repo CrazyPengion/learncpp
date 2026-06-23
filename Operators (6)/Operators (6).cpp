@@ -8,7 +8,7 @@ Your program should match the following output:
 
 Enter an integer: 5
 5 is odd
-*/
+
 
 #include <iostream>
 
@@ -51,4 +51,4 @@ void printMessage(int number, bool isNumberEven)
 	{
 		std::cout << "\n" << number << " is odd";
 	}
-}
+}*/

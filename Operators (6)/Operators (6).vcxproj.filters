@@ -18,5 +18,8 @@
     <ClCompile Include="Operators (6).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="aFewApples.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
