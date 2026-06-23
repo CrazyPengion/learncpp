@@ -15,14 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Constants &amp; Strings (5).cpp">
+    <ClCompile Include="Operators (6).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CnS Final %285%29.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="C&amp;S Final task5" />
   </ItemGroup>
 </Project>

@@ -9,7 +9,7 @@ Sample output:
 Enter your full name: John Doe
 Enter your age: 32
 Your age + length of name is: 40
-*/
+
 
 #include <iostream>
 #include <string>
@@ -27,3 +27,4 @@ int main()
 
     std::cout << "Your age + lenght of name is: " << std::size(name) + age;
 }
+*/

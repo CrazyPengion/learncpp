@@ -6,6 +6,7 @@
   <Project Path="../Constants &amp; Strings (5)/Constants &amp; Strings (5).vcxproj" Id="79088b8b-26ac-47a0-b889-f1b75cbedd72" />
   <Project Path="../Data Types (4)/Data Types (4).vcxproj" Id="335639d4-4973-45cc-b5d4-bf892022dc9a" />
   <Project Path="../Functions (3)/Functions (3).vcxproj" Id="d4dd8a55-ada5-4b74-8bdd-307384abe95a" />
+  <Project Path="../Operators (6)/Operators (6).vcxproj" Id="eaea69e1-6258-4925-b28f-d3f1419a7561" />
   <Project Path="../Variables (2)/Variables (2).vcxproj" Id="5139147d-56c1-40fe-9ad0-4c0060177d86" />
   <Project Path="HelloWorld.vcxproj" Id="86537e41-57f0-4ccf-8854-981a0905b75c" />
 </Solution>
