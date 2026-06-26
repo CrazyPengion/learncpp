@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../(7) Scope Duration Linkage/(7) Scope Duration Linkage.vcxproj" Id="166b43c6-651c-436a-b7bc-ebe66d38e5d1" />
   <Project Path="../Constants &amp; Strings (5)/Constants &amp; Strings (5).vcxproj" Id="79088b8b-26ac-47a0-b889-f1b75cbedd72" />
   <Project Path="../Data Types (4)/Data Types (4).vcxproj" Id="335639d4-4973-45cc-b5d4-bf892022dc9a" />
   <Project Path="../Functions (3)/Functions (3).vcxproj" Id="d4dd8a55-ada5-4b74-8bdd-307384abe95a" />
